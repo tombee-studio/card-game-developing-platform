@@ -1,0 +1,23 @@
+{
+  "name": "card-game-developing-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require @babel/register test/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/register": "^7.9.0",
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^7.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
